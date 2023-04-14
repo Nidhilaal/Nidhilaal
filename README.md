@@ -2,7 +2,7 @@
 
 ### Hello, World! 👋  
 <div align="center">
-<img src="https://i.gifer.com/NvL.gif" align="center" height="" width="400" />
+<img src="[https://i.gifer.com/NvL.gif](https://i.gifer.com/NvL.gif)" align="center" height="" width="400" />
 </div>  
   
 
