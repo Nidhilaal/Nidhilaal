@@ -2,9 +2,10 @@
 
 ### Hello, World! 👋  
 <div align="center">
-<img src="[https://steamcommunity.com/sharedfiles/filedetails/?id=1229753627](https://steamuserimages-a.akamaihd.net/ugc/870748997466000124/F1B88FD2E6D2A86F5FE2B028654C7ECDCBD4DE6D/?imw=1024&imh=819&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)" align="center" height="" width="500" />
+![Nv2](https://user-images.githubusercontent.com/127610925/232218765-b83a1b15-c2e9-40ac-95f7-dc9acacd4945.gif)
 </div>  
   
+
 
 ### <div align="center">Finally you have reached me. I'm Nidhilal, a full-time full-stack freelance developer 🚀</div>  
   
