@@ -1,22 +1,22 @@
 
 
-### Hello, World! 👋  
+### Hello, World!👋  
 <div align="center">
-![Nv2](https://user-images.githubusercontent.com/127610925/232218765-b83a1b15-c2e9-40ac-95f7-dc9acacd4945.gif)
+<img src="https://user-images.githubusercontent.com/127610925/232242557-e265f1f3-d434-40ab-8764-22cdaf47ea81.gif" align="center" style="width: 55%"/>
 </div>  
   
 
 
-### <div align="center">Finally you have reached me. I'm Nidhilal, a full-time full-stack freelance developer 🚀</div>  
+### <div align="center">Finally you have reached me.I'm Nidhilal, a full-time full-stack freelance developer 🚀</div>  
   
 
 - 🔭 I’m currently working as an intern.  
   
 
-- 🌱 I’m currently learning Java Springboot and Angular.  
+- 🌱 I’m currently learning Java springboot and Angular.  
   
 
-- ⚡ I use ctrl+d to select all the multiple occurrences of same word/variable.  
+- ⚡I use ctrl+d to select multiple occurrences of a same word/variable.  
   
 
 <br/>  
@@ -31,6 +31,7 @@
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
 </div>
 
@@ -40,14 +41,19 @@
 
 ### Backend  
 <div align="center">  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
 
 
+
+### DevOps  
+<div align="center">  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+</div>
 
 </td></tr></table>  
 
@@ -72,13 +78,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Nidhilaal&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhilaal&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
