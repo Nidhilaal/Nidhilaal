@@ -2,7 +2,7 @@
 
 ### Hello, World! 👋  
 <div align="center">
-<img src="https://steamcommunity.com/sharedfiles/filedetails/?id=1229753627" align="center" height="" width="500" />
+<img src="[https://steamcommunity.com/sharedfiles/filedetails/?id=1229753627](https://steamuserimages-a.akamaihd.net/ugc/870748997466000124/F1B88FD2E6D2A86F5FE2B028654C7ECDCBD4DE6D/?imw=1024&imh=819&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)" align="center" height="" width="500" />
 </div>  
   
 
