@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning Java springboot and Angular.  
   
 
-- ⚡I use ctrl+d to select multiple occurrences of a same word/variable.  
+- ⚡I use ctrl+d to select multiple occurrences of a same word/variable in visual studio code.  
   
 
 <br/>  
