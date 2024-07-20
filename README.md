@@ -13,7 +13,7 @@
 - 🔭 I’m currently working as a Software Engineer.  
   
 
-- 🌱I’m currently utilizing .NET and C# for development.  
+- 🌱I’m currently utilizing .NET and Angular for development.  
   
 
 - ⚡ Fun fact: I use ctrl+d to select multiple occurrences of a same word/variable in visual studio code.  
